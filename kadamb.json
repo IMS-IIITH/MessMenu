@@ -2,230 +2,255 @@
     "Days": {
         "Monday": {
             "Breakfast": {
-                "Item 1": "Wada",
-                "Item 2": "Toasted Bread",
-                "Accompaniants": "Butter, Jam, Chutney, Sambar, Cornflakes, Moong-Sprouts Salad",
-                "Beverages": "Tea, Coffee, Milk",
-                "Fruits": "Seasonal Fruit\n"
+                "Carb 1": "Wada",
+                "Carb 2": "Toasted Bread",
+                "Accompaniments": "Butter, Jam, Sambar, Chutney",
+                "Mandatory Item": "Cornflakes",
+                "Protein": "Steamed moong sprouts Salad",
+                "Fruit": "Seasonal fruit",
+                "Drink": "Tea/ Coffee/ Milk"
             },
             "Lunch": {
-                "Sweet / Spl. Dish": "",
-                "Dry Curry": "Cabbage Dry",
-                "Wet Curry": "Bhendi Curry",
-                "Dal / Rajma / Choley": "Rajma",
-                "Sambar / Rasam": "Rasam",
-                "Flavoured Rice": "Veg Polao, Steamed Rice",
-                "Accompaniants": "Phulka, Chutney, Curd",
-                "Salads": "Green"
+                "Carb 1": "Steamed Rice",
+                "Carb 2": "Veg Polao",
+                "Carb 3": "Phulka",
+                "Protein 1/Dal": "Rasam",
+                "Protein 2": "Rajma",
+                "Veg 1": "Cabbage Dry",
+                "Veg 2": "Bhendi Curry",
+                "Accompaniments": "Fresh chutney, Curd, Green Salad",
+                "Dessert": ""
             },
             "Snacks": {
                 "Item": "Aloo Bonda",
-                "Beverages": "Tea, Coffee, Milk"
+                "Drink": "Tea / Milk / Coffee"
             },
             "Dinner": {
-                "Sweet / Spl. Dish": "Butter Naan + Double Roti",
-                "Dry Curry": "",
-                "Wet Curry": "Aloo Dum/ Kadai Veg",
-                "Dal / Rajma / Choley": "Tuver Dal, Kala Chana",
-                "Sambar / Rasam": "",
-                "Flavoured Rice": "Steamed Rice",
-                "Accompaniants": "Curd, Pickle, Salad, Boondi/Double Ka Metha"
+                "Carb 1": "Steamed Rice",
+                "Carb 2": "Butter Naan + Double Roti",
+                "Protein 1/Dal": "Tuver Dal",
+                "Protein 2": "Kala Chana",
+                "Veg": "Aloo Dum / Kadai Veg",
+                "Accompaniments": "Pickle, curd, salad",
+                "Dessert": "Boondi/double ka metha",
+                "Soup": ""
             }
         },
         "Tuesday": {
             "Breakfast": {
-                "Item 1": "Triangle Paratha",
-                "Item 2": "Dalia Upma",
-                "Accompaniants": "Aloo Curry, Chutney, Cornflakes, Sattu Drink",
-                "Beverages": "Tea, Coffee, Milk",
-                "Fruits": "Seasonal Fruit\n"
+                "Carb 1": "Triangle Paratha",
+                "Carb 2": "Dalia Upma",
+                "Accompaniments": "Aloo Curry, chutney",
+                "Mandatory Item": "Cornflakes",
+                "Protein": "Sattu Drink",
+                "Fruit": "Seasonal fruit",
+                "Drink": "Tea/ Coffee/ Milk"
             },
             "Lunch": {
-                "Sweet / Spl. Dish": "Semia Kheer",
-                "Dry Curry": "French Fries",
-                "Wet Curry": "Ridge Gourd Curry",
-                "Dal / Rajma / Choley": "Masoor Dal",
-                "Sambar / Rasam": "Sambar",
-                "Flavoured Rice": "Lemon Rice, Steamed Rice",
-                "Accompaniants": "Methi Roti/ Chapati, Curd, Chutney",
-                "Salads": "Kheera"
+                "Carb 1": "Steamed Rice",
+                "Carb 2": "Pulihora/Lemon rice",
+                "Carb 3": "Methi Roti / Chapati",
+                "Protein 1/Dal": "Sambar",
+                "Protein 2": "Masoor Daal",
+                "Veg 1": "French Fry",
+                "Veg 2": "Ridge Gourd Curry",
+                "Accompaniments": "Fresh chutney, Curd, Kheera Salad",
+                "Dessert": "Semiya Kheer"
             },
             "Snacks": {
                 "Item": "Papdi Chaat",
-                "Beverages": "Tea, Coffee, Milk"
+                "Drink": "Tea / Milk / Coffee"
             },
             "Dinner": {
-                "Sweet / Spl. Dish": "Poori",
-                "Dry Curry": "Donda",
-                "Wet Curry": "Choley",
-                "Dal / Rajma / Choley": "Millet Kichdi",
-                "Sambar / Rasam": "Veg Clear Soup",
-                "Flavoured Rice": "Steamed Rice",
-                "Accompaniants": "Boondi Raita, Pickle"
+                "Carb 1": "Steamed Rice",
+                "Carb 2": "Poori",
+                "Protein 1/Dal": "Choley",
+                "Protein 2": "millet khichdi",
+                "Veg": "Donda",
+                "Accompaniments": "Pickle, Boondi Raita",
+                "Dessert": "",
+                "Soup": "Veg Clear Soup"
             }
         },
         "Wednesday": {
             "Breakfast": {
-                "Item 1": "Kanchipuram Idli",
-                "Item 2": "Toasted Bread",
-                "Accompaniants": "Sambar, Chutney, Butter, Jam, Cornflakes, Chana-Sprouts Salad",
-                "Beverages": "Tea, Coffee, Milk",
-                "Fruits": "Seasonal Fruit\n"
+                "Carb 1": "Kanchipuram Idly",
+                "Carb 2": "Toasted Bread",
+                "Accompaniments": "Butter, Jam, Sambar, Chutney",
+                "Mandatory Item": "Cornflakes",
+                "Protein": "Steamed Chana sprouts Salad",
+                "Fruit": "Seasonal fruit",
+                "Drink": "Tea/ Coffee/ Milk"
             },
             "Lunch": {
-                "Sweet / Spl. Dish": "Veg Biriyani",
-                "Dry Curry": "Aloo Capsicum Dry",
-                "Wet Curry": "Mirchi Ka Salan",
-                "Dal / Rajma / Choley": "Choley",
-                "Sambar / Rasam": "Tuver Ka Dal",
-                "Flavoured Rice": " Steamed Rice",
-                "Accompaniants": "Lemon & Raitha, Phulka, Chutney, Curd",
-                "Salads": "Lachcha Pyaz"
+                "Carb 1": "Steamed Rice",
+                "Carb 2": "Veg Biriyani",
+                "Carb 3": "Phulka",
+                "Protein 1/Dal": "Tuver ki Dal",
+                "Protein 2": "Choley",
+                "Veg 1": "Aloo Capsicum Dry",
+                "Veg 2": "Mirchi Ka salan",
+                "Accompaniments": "Fresh chutney, Curd, Lachcha Pyaaz, Lemon & Raita",
+                "Dessert": ""
             },
             "Snacks": {
-                "Item": "Gunta Punganalu/ Sandwhich",
-                "Beverages": "Tea, Coffee, Milk"
+                "Item": "Gunta Puganalu / Sandwich",
+                "Drink": "Tea / Milk / Coffee"
             },
             "Dinner": {
-                "Sweet / Spl. Dish": "Paneer Butter Masala",
-                "Dry Curry": "Aloo Chokha",
-                "Wet Curry": "",
-                "Dal / Rajma / Choley": "Panchrang Dal",
-                "Sambar / Rasam": "",
-                "Flavoured Rice": "Steamed Rice",
-                "Accompaniants": "Wheat Lachcha Paratha, Pickle, Curd"
+                "Carb 1": "Steamed Rice",
+                "Carb 2": "Wheat Lachcha Paratha",
+                "Protein 1/Dal": "Panchrang Daal",
+                "Protein 2": "Paneer Butter Masala",
+                "Veg": "Aloo Chokha",
+                "Accompaniments": "Pickle, Curd",
+                "Dessert": "",
+                "Soup": ""
             }
         },
         "Thursday": {
             "Breakfast": {
-                "Item 1": "Veg Uttapam",
-                "Item 2": "Pongal",
-                "Accompaniants": "Sambar, Chutney, Cornflakes, Sattu Drink",
-                "Beverages": "Tea, Coffee, Milk",
-                "Fruits": "Seasonal Fruit\n"
+                "Carb 1": "Veg Utappam",
+                "Carb 2": "Pongal",
+                "Accompaniments": "Sambar, Chutney",
+                "Mandatory Item": "Cornflakes",
+                "Protein": "Sattu Drink",
+                "Fruit": "Seasonal fruit",
+                "Drink": "Tea/ Coffee/ Milk"
             },
             "Lunch": {
-                "Sweet / Spl. Dish": "",
-                "Dry Curry": "Beetroot with coconut",
-                "Wet Curry": "Gatte Ki Sabzi/ Malai Kofta",
-                "Dal / Rajma / Choley": "Green Moong Dal",
-                "Sambar / Rasam": "Sambar",
-                "Flavoured Rice": "Zeera Rice, Steamed Rice",
-                "Accompaniants": "Curd, Chutney, Phulka",
-                "Salads": "Mixed"
+                "Carb 1": "Steamed Rice",
+                "Carb 2": "Zeera Rice",
+                "Carb 3": "Phulka",
+                "Protein 1/Dal": "Sambar",
+                "Protein 2": "Green Moong Ki Dal",
+                "Veg 1": "Beetroot with Coconut",
+                "Veg 2": "Gatte Ki Sabzi/ Malai Kofta",
+                "Accompaniments": "Fresh chutney, Curd, Mixed Salad",
+                "Dessert": ""
             },
             "Snacks": {
                 "Item": "Samosa",
-                "Beverages": "Tea, Coffee, Milk"
+                "Drink": "Tea / Milk / Coffee"
             },
             "Dinner": {
-                "Sweet / Spl. Dish": "Double Roti",
-                "Dry Curry": "Veg Jal Frezy",
-                "Wet Curry": "",
-                "Dal / Rajma / Choley": "Dal Fry, Soya Bean",
-                "Sambar / Rasam": "",
-                "Flavoured Rice": "Steamed Rice",
-                "Accompaniants": "Jalebi/ Halwa, Pickle, Curd, Salad"
+                "Carb 1": "Steamed Rice",
+                "Carb 2": "Double Roti",
+                "Protein 1/Dal": "Dal fry",
+                "Protein 2": "Soya bean",
+                "Veg": "Veg Jaal Freezy",
+                "Accompaniments": "Pickle, Curd, Salad",
+                "Dessert": ""
             }
         },
         "Friday": {
             "Breakfast": {
-                "Item 1": "Dosa (Masala/Corn)/ Pesarattu",
-                "Item 2": "Veg Upma",
-                "Accompaniants": "Sambar, Chutney, Cornflakes, Moong-Sprouts Salad",
-                "Beverages": "Tea, Coffee, Milk",
-                "Fruits": "Seasonal Fruit\n"
+                "Carb 1": "Dosa (Masala/corn)/pesarattu",
+                "Carb 2": "Toasted Bread",
+                "Accompaniments": "Sambar, chutney",
+                "Mandatory Item": "Cornflakes",
+                "Protein": "Steamed moong sprouts Salad",
+                "Fruit": "Seasonal fruit",
+                "Drink": "Tea/ Coffee/ Milk"
             },
             "Lunch": {
-                "Sweet / Spl. Dish": "Kadai Paneer",
-                "Dry Curry": "Arbi/ Karela Fry",
-                "Wet Curry": "",
-                "Dal / Rajma / Choley": "Dal Makhani",
-                "Sambar / Rasam": "Rasam",
-                "Flavoured Rice": "Bagara Rice, Steamed Rice",
-                "Accompaniants": "Curd, Phulka, Chutney",
-                "Salads": "Green"
+                "Carb 1": "Steamed Rice",
+                "Carb 2": "Bagara Rice",
+                "Carb 3": "Phulka",
+                "Protein 1/Dal": "Rasam",
+                "Protein 2": "Dal Makhani",
+                "Veg 1": "Arbi / Karela Fry",
+                "Veg 2": "Kadai Paneer",
+                "Accompaniments": "Fresh chutney, Curd, Green Salad",
+                "Dessert": ""
             },
             "Snacks": {
                 "Item": "Pav Bhaji",
-                "Beverages": "Tea, Coffee, Milk"
+                "Drink": "Tea / Milk / Coffee"
             },
             "Dinner": {
-                "Sweet / Spl. Dish": "Malai Kofta/ Pumpkin Chana",
-                "Dry Curry": "",
-                "Wet Curry": "",
-                "Dal / Rajma / Choley": "Tomato Daal, Lobia",
-                "Sambar / Rasam": "Veg Manchow Soup",
-                "Flavoured Rice": "Steamed Rice",
-                "Accompaniants": "Phulka, Pickle, Curd"
+                "Carb 1": "Steamed Rice",
+                "Carb 2": "Phulka",
+                "Protein 1/Dal": "Tomato Daal",
+                "Protein 2": "Lobia",
+                "Veg": "Malai Kofta/Pumpkin Chana",
+                "Accompaniments": "Pickle, Curd",
+                "Dessert": "",
+                "Soup": "Veg Manchow Soup"
             }
         },
         "Saturday": {
             "Breakfast": {
-                "Item 1": "Aloo/Paneer Paratha",
-                "Item 2": "Ugani",
-                "Accompaniants": "Sambar, Chutney, Cornflakes, Peanut Salad",
-                "Beverages": "Tea, Coffee, Milk",
-                "Fruits": "Seasonal Fruit\n"
+                "Carb 1": "Aloo / Paneer Paratha",
+                "Carb 2": "Ugani",
+                "Accompaniments": "Sambar, chutney",
+                "Mandatory Item": "Cornflakes",
+                "Protein": "Steamed Peanut Salad",
+                "Fruit": "Seasonal fruit",
+                "Drink": "Tea/ Coffee/ Milk"
             },
             "Lunch": {
-                "Sweet / Spl. Dish": "",
-                "Dry Curry": "Brinjal",
-                "Wet Curry": "Methi Moong",
-                "Dal / Rajma / Choley": "Tuver Daal",
-                "Sambar / Rasam": "Kadhi-Pakori",
-                "Flavoured Rice": "Bisi Belle Bath,  Steamed Rice",
-                "Accompaniants": "Curd, Palak Phulka, Chutney",
-                "Salads": " Moong Dal"
+                "Carb 1": "Steamed Rice",
+                "Carb 2": "Bisi belle Bhat",
+                "Carb 3": "Palak Phulka",
+                "Protein 1/Dal": "Tuver Daal",
+                "Protein 2": "Kadhi - pakori",
+                "Veg 1": "Brinjal",
+                "Veg 2": "methi moong",
+                "Accompaniments": "Fresh chutney, Curd, Moore Daal salad",
+                "Dessert": ""
             },
             "Snacks": {
-                "Item": "Pasta/ Bhel Puri",
-                "Beverages": "Tea, Coffee, Milk"
+                "Item": "Pasta / Bhel poori",
+                "Drink": "Tea / Milk / Coffee"
             },
             "Dinner": {
-                "Sweet / Spl. Dish": "Dosa + Spl. Sweet",
-                "Dry Curry": "Aloo Masala",
-                "Wet Curry": "",
-                "Dal / Rajma / Choley": "Chana Daal",
-                "Sambar / Rasam": "Sambar, Chutney",
-                "Flavoured Rice": "Steamed Rice",
-                "Accompaniants": "Pickle, Curd"
+                "Carb 1": "Steamed Rice",
+                "Carb 2": "Dosa",
+                "Protein 1/Dal": "Sambar - Chutney",
+                "Protein 2": "Chana Daal",
+                "Veg": "Aloo Masala",
+                "Accompaniments": "Pickle, Curd",
+                "Dessert": "Special Sweet",
+                "Soup": ""
             }
         },
         "Sunday": {
             "Breakfast": {
-                "Item 1": "Idly",
-                "Item 2": "Poha",
-                "Accompaniants": "Pickle, Chutney, Cornflakes, Sattu Drink",
-                "Beverages": "Tea, Coffee, Milk",
-                "Fruits": "Seasonal Fruit\n"
+                "Carb 1": "Idly",
+                "Carb 2": "Poha",
+                "Accompaniments": "Pickle, Chutney",
+                "Mandatory Item": "Cornflakes",
+                "Protein": "Sattu Drink",
+                "Fruit": "Seasonal fruit",
+                "Drink": "Tea/ Coffee/ Milk"
             },
             "Lunch": {
-                "Sweet / Spl. Dish": "Fruit Custard",
-                "Dry Curry": "",
-                "Wet Curry": "Mirchi Ka Salan",
-                "Dal / Rajma / Choley": "Masoor Dal",
-                "Sambar / Rasam": "",
-                "Flavoured Rice": "Veg Biriyani, Steamed Rice",
-                "Accompaniants": "Curd, Chutney",
-                "Salads": "Lachcha Pyaz, Lemon & Raitha"
+                "Carb 1": "Steamed Rice",
+                "Carb 2": "Veg Biryani",
+                "Carb 3": "",
+                "Protein 1/Dal": "Masoor Daal",
+                "Protein 2": "",
+                "Veg 1": "Mirchi ka Salan",
+                "Veg 2": "",
+                "Accompaniments": "Fresh Chutney,Curd, Lachcha Pyaaz, Lemon & Raita",
+                "Dessert": "Fruit Custard"
             },
             "Snacks": {
                 "Item": "Chidwa",
-                "Beverages": "Tea, Coffee, Milk"
+                "Drink": "Tea / Milk / Coffee"
             },
             "Dinner": {
-                "Sweet / Spl. Dish": "",
-                "Dry Curry": "Veg/Gobi Manchurian & Aloo Gobi Curry",
-                "Wet Curry": "Tomato Soup",
-                "Dal / Rajma / Choley": "Noodles + Pulka",
-                "Sambar / Rasam": "Daal Moong",
-                "Flavoured Rice": "Steamed Rice",
-                "Accompaniants": "Curd, Crotons, Pickle, Salad"
+                "Carb 1": "Steamed Rice",
+                "Carb 2": "Noodles+Pulka",
+                "Protein 1/Dal": "Daal Moong",
+                "Protein 2": "",
+                "Veg": "Verg/Gobi Manchurian & Aloo Gobi Curry",
+                "Accompaniments": "Pickle, Curd, Salad & crotons",
+                "Dessert": "",
+                "Soup": "Tomato Soup"
             }
         }
     },
-    "lastUpdated": "17/09/2024",
-    "wef": "01/09/2024",
-    "additionalInfo": []
+    "w.e.f": "01-09-2024"
 }

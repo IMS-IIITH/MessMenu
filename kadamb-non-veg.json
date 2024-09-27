@@ -1,0 +1,41 @@
+{
+   "Breakfast":{
+      "Monday":"Omelette",
+      "Tuesday":"Omelette",
+      "Wednesday":"Boiled Eggs",
+      "Thursday":"Omelette",
+      "Friday":"Omelette",
+      "Saturday":"Omelette",
+      "Sunday":"Boiled Eggs"
+   },
+   "Meals":{
+      "Monday Dinner":"Chicken (Wet Curry)",
+      "Wednesday Lunch":"Chicken Dum Biryani",
+      "Thursday Dinner":"Egg Curry",
+      "Friday Dinner":"Chicken (Dry Curry)",
+      "Sunday Lunch":"Chicken Dum Biryani"
+   },
+   "Types":{
+      "Wet Chicken":{
+         "Week1":"Gongura Chicken Curry",
+         "Week2":"Butter Chicken",
+         "Week3":"Chicken Curry Home Style",
+         "Week4":"Moghalai Chicken",
+         "Week5":"Kadhai Chicken/Punjabi"
+      },
+      "Dry Chicken":{
+         "Week1":"Chicken Manchuria",
+         "Week2":"Chicken 65",
+         "Week3":"Kerala Chicken",
+         "Week4":"Chicken Kosha",
+         "Week5":"Chicken 65"
+      },
+      "Egg Curry":{
+         "Week1":"Egg Curry",
+         "Week2":"Egg Bhurji",
+         "Week3":"Egg Curry",
+         "Week4":"Egg Bhurji",
+         "Week5":"Egg Curry"
+      }
+   }
+}

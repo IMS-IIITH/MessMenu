@@ -140,13 +140,13 @@
                 "Protein 2": "Soya bean",
                 "Veg": "Veg Jaal Freezy",
                 "Accompaniments": "Pickle, Curd, Salad",
-                "Dessert": ""
+                "Dessert": "Jalebi/Halwa"
             }
         },
         "Friday": {
             "Breakfast": {
                 "Carb 1": "Dosa (Masala/corn)/pesarattu",
-                "Carb 2": "Toasted Bread",
+                "Carb 2": "Veg Upma",
                 "Accompaniments": "Sambar, chutney",
                 "Mandatory Item": "Cornflakes",
                 "Protein": "Steamed moong sprouts Salad",

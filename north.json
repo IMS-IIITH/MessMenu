@@ -21,8 +21,7 @@
             "Dessert/Special Dish":""
          },
          "Snacks":{
-            "Item":"Bhel Puri",
-            "Drink":"Tea/Milk"
+            "Item":""
          },
          "Dinner":{
             "Carb 1":"Steamed Rice",
@@ -55,15 +54,14 @@
             "Dessert":"Besan Laddu/Semiya Kheer"
          },
          "Snacks":{
-            "Item":"Chana Chat",
-            "Drink":"Tea/Milk"
+            "Item":""
          },
          "Dinner":{
             "Carb 1":"Steamed Rice",
             "Carb 2":"Roti/Chapati",
             "Protein 1/Dal":"Kadhai Paneer",
             "Protein 2/Veg 1":"Dal Tadka",
-            "Veg 2":"Jeera Aloo",
+            "Veg 2":"Kundru/Cabbage",
             "Accompaniments":"Pickle, Curd, Salad",
             "Dessert":""
          }
@@ -89,8 +87,7 @@
             "Dessert":""
          },
          "Snacks":{
-            "Item":"Papdi Chat",
-            "Drink":"Tea/Milk"
+            "Item":""
          },
          "Dinner":{
             "Carb 1":"Steamed Rice",
@@ -99,7 +96,7 @@
             "Protein 2/Veg 1":"",
             "Veg 2":"Mix Veg (Gravy)",
             "Accompaniments":"Pickle, Curd, Salad, Tomato Launji",
-            "Dessert":""
+            "Dessert":"Jalebi"
          }
       },
       "Thursday":{
@@ -123,8 +120,7 @@
             "Dessert":"Boondi Raita"
          },
          "Snacks":{
-            "Item":"Aloo Sandwich",
-            "Drink":"Tea/Milk"
+            "Item":""
          },
          "Dinner":{
             "Carb 1":"Steamed Rice",
@@ -157,12 +153,11 @@
             "Dessert":"Dahi Bhalla"
          },
          "Snacks":{
-            "Item":"Veg Macroni",
-            "Drink":"Tea/Milk"
+            "Item":""
          },
          "Dinner":{
             "Carb 1":"Fried Rice",
-            "Carb 2":"Roti & Noodles",
+            "Carb 2":"Roti & Dum aloo",
             "Protein 1/Dal":"Soya Badi (semidry)",
             "Protein 2/Veg 1":"Mixed Dal",
             "Veg2":"Veg Manchurian",
@@ -191,8 +186,7 @@
             "Dessert":""
          },
          "Snacks":{
-            "Item":"Mix Pakoda",
-            "Drink":"Tea/Milk"
+            "Item":""
          },
          "Dinner":{
             "Carb 1":"Matar Pulao",
@@ -225,20 +219,19 @@
             "Dessert":"Fruit Custard"
          },
          "Snacks":{
-            "Item":"Dhokla/Poha",
-            "Drink":"Tea/Milk"
+            "Item":""
          },
          "Dinner":{
             "Carb 1":"White Rice",
             "Carb 2":"Plain Paratha",
-            "Protein 1/Dal":"Paneer Lababdar",
+            "Protein 1/Dal":"Palak Paneer",
             "Protein 2/Veg 1":"Mix Dal",
-            "Veg 2":"Louki Chana",
+            "Veg 2":"Lauki Chana",
             "Accompaniments":"Pickle, Curd, Salad",
             "Dessert":""
          }
       }
    },
-   "w.e.f":"01-09-2024",
-   "lastUpdated":"27-09-2024"
+   "w.e.f":"01-01-2025",
+   "lastUpdated":"07-01-2025"
 }

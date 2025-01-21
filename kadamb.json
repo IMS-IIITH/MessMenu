@@ -17,6 +17,7 @@
                 "Protein 1/Dal": "",
                 "Protein 2": "Rajma",
                 "Veg 1": "Cabbage Dry",
+                "Veg 2": "",
                 "Accompaniments": "Fresh chutney, Curd, Green Salad",
                 "Dessert": ""
             },
@@ -51,7 +52,8 @@
                 "Carb 3": "Methi Roti / Chapati",
                 "Protein 1/Dal": "",
                 "Protein 2": "Masoor Daal",
-                "Veg1": "Ridge Gourd Curry",
+                "Veg 1": "Ridge Gourd Curry",
+                "Veg 2": "",
                 "Accompaniments": "Curd",
                 "Dessert": "Semiya Kheer"
             },
@@ -87,6 +89,7 @@
                 "Protein 1/Dal": "",
                 "Protein 2": "",
                 "Veg 1": "Mirchi Ka salan",
+                "Veg 2": "",
                 "Accompaniments": "Curd/Raita",
                 "Dessert": ""
             },
@@ -122,6 +125,7 @@
                 "Protein 1/Dal": "",
                 "Protein 2": "Green Moong Ki Dal",
                 "Veg 1": "Beetroot with Coconut/malai kofta",
+                "Veg 2": "",
                 "Accompaniments": "Curd",
                 "Dessert": ""
             },
@@ -156,6 +160,7 @@
                 "Protein 1/Dal": "",
                 "Protein 2": "Dal Makhani",
                 "Veg 1": "Kadai Paneer",
+                "Veg 2": "",
                 "Accompaniments": "Curd",
                 "Dessert": ""
             },
@@ -190,6 +195,7 @@
                 "Protein 1/Dal": "",
                 "Protein 2": "Kadhi - pakori",
                 "Veg 1": "Brinjal",
+                "Veg 2": "",
                 "Accompaniments": "Curd",
                 "Dessert": ""
             },

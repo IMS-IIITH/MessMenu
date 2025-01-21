@@ -1,17 +1,17 @@
 {
    "Breakfast":{
       "Monday":"Omelette",
-      "Tuesday":"Omelette",
-      "Wednesday":"Boiled Eggs",
+      "Tuesday":"Boiled Egg",
+      "Wednesday":"",
       "Thursday":"Omelette",
-      "Friday":"Omelette",
-      "Saturday":"Omelette",
-      "Sunday":"Boiled Eggs"
+      "Friday":"",
+      "Saturday":"Boiled Egg",
+      "Sunday":""
    },
    "Meals":{
       "Monday Dinner":"Chicken (Wet Curry)",
       "Wednesday Lunch":"Chicken Dum Biryani",
-      "Thursday Dinner":"Egg Curry",
+      "Thursday Dinner":"",
       "Friday Dinner":"Chicken (Dry Curry)",
       "Sunday Lunch":"Chicken Dum Biryani"
    },

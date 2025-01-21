@@ -22,8 +22,8 @@
                 "Dessert": "Mix seed laddu/ Cocunut Laddu/ Flax seed Laddu"
             },
             "Snacks": {
-                "Item": "Mirchi Bajji",
-                "Drink": "Tea/ Milk"
+                "Item": "Mirchi Bajji (Pay and eat)",
+                "Drink": "Tea/ Milk (Pay and drink)"
             },
             "Dinner": {
                 "Carb 1": "Steamed Rice",
@@ -58,8 +58,8 @@
                 "Dessert": ""
             },
             "Snacks": {
-                "Item": "Samosa",
-                "Drink": "Tea/ Milk"
+                "Item": "Samosa (Pay and eat)",
+                "Drink": "Tea/ Milk (Pay and drink)"
             },
             "Dinner": {
                 "Carb 1": "Steamed Rice",
@@ -94,8 +94,8 @@
                 "Dessert": ""
             },
             "Snacks": {
-                "Item": "Gunta Ponganalu",
-                "Drink": "Tea/ Milk"
+                "Item": "Gunta Ponganalu (Pay and eat)",
+                "Drink": "Tea/ Milk (pay and drink)"
             },
             "Dinner": {
                 "Carb 1": "Steamed Rice",
@@ -130,8 +130,8 @@
                 "Dessert": ""
             },
             "Snacks": {
-                "Item": "Onion Pakodi",
-                "Drink": "Tea/ Milk"
+                "Item": "Onion Pakodi (Pay and eat)",
+                "Drink": "Tea/ Milk (Pay and drink)"
             },
             "Dinner": {
                 "Carb 1": "Steamed Rice",
@@ -166,8 +166,8 @@
                 "Dessert": "Semiya Payasam"
             },
             "Snacks": {
-                "Item": "Aloo Bonda",
-                "Drink": "Tea/ Milk"
+                "Item": "Aloo Bonda (Pay and eat)",
+                "Drink": "Tea/ Milk (Pay and drink)"
             },
             "Dinner": {
                 "Carb 1": "Steamed Rice",
@@ -202,8 +202,8 @@
                 "Dessert": ""
             },
             "Snacks": {
-                "Item": "Steam Dosa",
-                "Drink": "Tea/ Milk"
+                "Item": "Steam Dosa (Pay and eat)",
+                "Drink": "Tea/ Milk (Pay and drink)"
             },
             "Dinner": {
                 "Carb 1": "Steamed Rice",
@@ -238,8 +238,8 @@
                 "Dessert": "Fruit Custard"
             },
             "Snacks": {
-                "Item": "Masala Wada",
-                "Drink": "Tea/ Milk"
+                "Item": "Masala Wada (Pay and eat)",
+                "Drink": "Tea/ Milk (Pay and drink)"
             },
             "Dinner": {
                 "Carb 1": "Steamed Rice",

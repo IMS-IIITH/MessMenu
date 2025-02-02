@@ -3,7 +3,7 @@
         "Monday": {
             "Breakfast": {
                 "Carb 1": "Upma",
-                "Carb 2": "Pesarattu",
+                "Carb 2": "Ghee Pesarattu",
                 "Accompaniments": "Sambar, Chutney, Allam Chutney",
                 "Mandatory Item": "Cornflakes",
                 "Protein": "Sattu Drink",
@@ -15,11 +15,11 @@
                 "Carb 2": "Pulihora",
                 "Carb 3": "Roti",
                 "Protein 1/Dal": "Dosakaya Pappu",
-                "Protein 2": "Rajma Masala",
-                "Veg 1": "Tomato Drumstick Curry",
+                "Veg 1": "Potato Curry",
                 "Veg 2": "Pappu Charu",
-                "Accompaniments": "Chutney/ Pachhadi, Curd, Peanut Salad, Papad",
-                "Dessert": "Mix seed laddu/ Cocunut Laddu/ Flax seed Laddu"
+                "Veg 3": "",
+                "Accompaniments": "Chutney/Pachhadi, Curd, Peanut Salad, Paapad",
+                "Dessert": "Mix seed laddu / Cocunut Laddu / Flax seed Laddu"
             },
             "Snacks": {
                 "Item": "Mirchi Bajji (Pay and eat)",
@@ -27,20 +27,20 @@
             },
             "Dinner": {
                 "Carb 1": "Steamed Rice",
-                "Carb 2": "Chapathi",
-                "Protein 1/Dal": "Tuver Dal",
-                "Protein 2": "Kadai Paneer",
-                "Veg 1": "",
-                "Veg 2": "Pepper Rasam",
-                "Accompaniments": "Karam Chitla Podi, Pickle, Curd, Salad ",
+                "Carb 2": "Panner Paratha",
+                "Protein 1/Dal": "Vegetable Dal",
+                "Veg 1": "Dondakaya/Bendakaya fry",
+                "Veg 2": "Sambar",
+                "Veg 3": "",
+                "Accompaniments": "Karam Chitla Podi, Pickle, Curd, Salad",
                 "Dessert": ""
             }
         },
         "Tuesday": {
             "Breakfast": {
-                "Carb 1": "Poori/Kachori",
+                "Carb 1": "Poori/angle Chapathi",
                 "Carb 2": "Bread-Butter-Jam",
-                "Accompaniments": "Aloo Sabji/ Chole",
+                "Accompaniments": "Andhra poori curry/Aloo curry",
                 "Mandatory Item": "Cornflakes",
                 "Protein": "Steamed Moong Sprouts Salad",
                 "Fruit": "Banana",
@@ -51,9 +51,9 @@
                 "Carb 2": "",
                 "Carb 3": "Roti",
                 "Protein 1/Dal": "Thotakura Pappu",
-                "Protein 2": "",
-                "Veg 1": "Meal Maker",
+                "Veg 1": "Tomato Drumstick",
                 "Veg 2": "Rasam",
+                "Veg 3": "French fries/Gobi 65",
                 "Accompaniments": "Chutney/ Pachhadi, Curd, Salad, Fryums",
                 "Dessert": ""
             },
@@ -64,18 +64,18 @@
             "Dinner": {
                 "Carb 1": "Steamed Rice",
                 "Carb 2": "Roti",
-                "Protein 1/Dal": "Moong Dal",
-                "Protein 2": "",
-                "Veg 1": "Beerakaya Tomato Curry",
-                "Veg 2": "Sambar",
+                "Protein 1/Dal": "Leaf Dal",
+                "Veg 1": "Guttivankaya masala",
+                "Veg 2": "Rasam",
+                "Veg 3": "",
                 "Accompaniments": "Pickle, Curd, Salad",
                 "Dessert": ""
             }
         },
         "Wednesday": {
             "Breakfast": {
-                "Carb 1": "Sewai Upma",
-                "Carb 2": "Idly",
+                "Carb 1": "Uttapam",
+                "Carb 2": "Dalla",
                 "Accompaniments": "Sambar, Chutney",
                 "Mandatory Item": "Cornflakes",
                 "Protein": "Steamed Chana Sprouts Salad",
@@ -86,10 +86,10 @@
                 "Carb 1": "Steamed Rice",
                 "Carb 2": "Veg Biryani",
                 "Carb 3": "Roti",
-                "Protein 1/Dal": "Tuver Dal",
-                "Protein 2": "",
-                "Veg 1": "Potato Curry",
+                "Protein 1/Dal": "Moong Dal",
+                "Veg 1": "Meal Maker",
                 "Veg 2": "Raita",
+                "Veg 3": "Mirchi ka Salan",
                 "Accompaniments": "Chutney/ Pachhadi, Curd, Onion Salad, Banana Chips",
                 "Dessert": ""
             },
@@ -101,9 +101,9 @@
                 "Carb 1": "Steamed Rice",
                 "Carb 2": "Dosa",
                 "Protein 1/Dal": "Masoor Dal",
-                "Protein 2": "Groundnut Chutney",
-                "Veg 1": "Aloo Kurma",
+                "Veg 1": "Aloo Curry",
                 "Veg 2": "Sambar",
+                "Veg 3": "Groundnut chutney",
                 "Accompaniments": "Pickle, Curd, Salad",
                 "Dessert": "Spl. Sweet"
             }
@@ -120,14 +120,14 @@
             },
             "Lunch": {
                 "Carb 1": "Steamed Rice",
-                "Carb 2": "Bisi bele Bath, Boondhi",
+                "Carb 2": "",
                 "Carb 3": "Palak Roti",
-                "Protein 1/Dal": "Mix Dal",
-                "Protein 2": "Soyaseeds",
-                "Veg 1": "",
-                "Veg 2": "Creamy Tomato Soup",
+                "Protein 1/Dal": "Leaf Dal",
+                "Veg 1": "Dondakaya Fry",
+                "Veg 2": "Bisi bele Bath, Boondhi",
+                "Veg 3": "",
                 "Accompaniments": "Chutney/ Pachhadi, Curd, Salad, Paapad",
-                "Dessert": ""
+                "Dessert": "Semiya Payasam/Bellam Payasam/Paravanam"
             },
             "Snacks": {
                 "Item": "Onion Pakodi (Pay and eat)",
@@ -135,19 +135,19 @@
             },
             "Dinner": {
                 "Carb 1": "Steamed Rice",
-                "Carb 2": "Lacha Paratha",
-                "Protein 1/Dal": "",
-                "Protein 2": "Matar Paneer",
-                "Veg 1": "Dondakaya Curry/Beetroot",
-                "Veg 2": "Tomato Rasam",
+                "Carb 2": "Triangle Paratha",
+                "Protein 1/Dal": "Tomato Pappu",
+                "Veg 1": "Palak Paneer",
+                "Veg 2": "Pepper Rasam",
+                "Veg 3": "",
                 "Accompaniments": "Pickle, Curd, Salad",
                 "Dessert": ""
             }
         },
         "Friday": {
             "Breakfast": {
-                "Carb 1": "Dalia",
-                "Carb 2": "Uttapam",
+                "Carb 1": "Dosa (Karam/corn)",
+                "Carb 2": "Tomato upma",
                 "Accompaniments": "Sambar, Chutney",
                 "Mandatory Item": "Cornflakes",
                 "Protein": "Steamed Moong Sprouts Salad",
@@ -158,10 +158,10 @@
                 "Carb 1": "Steamed Rice",
                 "Carb 2": "",
                 "Carb 3": "Roti",
-                "Protein 1/Dal": "Masoor Dal",
-                "Protein 2": "",
+                "Protein 1/Dal": "Tomato Pappu",
                 "Veg 1": "Chana Brinjal",
                 "Veg 2": "Sambar",
+                "Veg 3": "Creamy Tomato Soup",
                 "Accompaniments": "Chutney/ Pachhadi, Curd, Salad, Fryums",
                 "Dessert": "Semiya Payasam"
             },
@@ -172,19 +172,19 @@
             "Dinner": {
                 "Carb 1": "Steamed Rice",
                 "Carb 2": "Roti",
-                "Protein 1/Dal": "Green Moong Dal",
-                "Protein 2": "",
-                "Veg 1": "Carrot Green Peas Fry",
-                "Veg 2": "Aloo 65",
+                "Protein 1/Dal": "Lead Dal",
+                "Veg 1": "Carrot Green Peas/Bettroot",
+                "Veg 2": "Sambar",
+                "Veg 3": "Cabbage Fry",
                 "Accompaniments": "Pickle, Curd, Salad",
                 "Dessert": ""
             }
         },
         "Saturday": {
             "Breakfast": {
-                "Carb 1": "Uggani",
-                "Carb 2": "Ravva Bonda",
-                "Accompaniments": "Sambar, Chutney, Allam Chutney",
+                "Carb 1": "Onion Bonda/Punugulu",
+                "Carb 2": "Poha",
+                "Accompaniments": "Tomato Chutney",
                 "Mandatory Item": "Cornflakes",
                 "Protein": "Steamed Peanut Salad",
                 "Fruit": "Banana",
@@ -195,10 +195,10 @@
                 "Carb 2": "",
                 "Carb 3": "Roti",
                 "Protein 1/Dal": "Muddha Pappu",
-                "Protein 2": "",
-                "Veg 1": "Kofta Curry",
+                "Veg 1": "Beans Curry",
                 "Veg 2": "Pacchi Pulusu",
-                "Accompaniments": "Mango Pickle, Curd, Salad, Fryums",
+                "Veg 3": "Kofta Curry",
+                "Accompaniments": "Mango/Tomato Pickle, Curd, Salad, Fryums",
                 "Dessert": ""
             },
             "Snacks": {
@@ -208,18 +208,18 @@
             "Dinner": {
                 "Carb 1": "Steamed Rice",
                 "Carb 2": "Poori",
-                "Protein 1/Dal": "Mix Dal",
-                "Protein 2": "Aloo Sabji/Chole",
-                "Veg 1": "",
-                "Veg 2": "Ginger Rasam",
-                "Accompaniments": "Pickle, Curd, Salad",
+                "Protein 1/Dal": "",
+                "Veg 1": "Aloo Sabji/Chole",
+                "Veg 2": "Bendakaya Pulusu",
+                "Veg 3": "Majjiga charu",
+                "Accompaniments": "Pickle, Curd, Salad, challa Mirchi",
                 "Dessert": ""
             }
         },
         "Sunday": {
             "Breakfast": {
-                "Carb 1": "Poha",
-                "Carb 2": "Dosa (Karam/Corn/Paneer)",
+                "Carb 1": "kancheepuram/raagi idly",
+                "Carb 2": "Semiya Upma",
                 "Accompaniments": "Sambar, Chutney",
                 "Mandatory Item": "Cornflakes",
                 "Protein": "Sattu Drink",
@@ -231,28 +231,28 @@
                 "Carb 2": "Paneer Biryani",
                 "Carb 3": "Roti",
                 "Protein 1/Dal": "Palakura Pappu",
-                "Protein 2": "",
                 "Veg 1": "Aloo Matar Curry, Raita",
-                "Veg 2": "Sambar, French Fries",
+                "Veg 2": "Sambar",
+                "Veg 3": "Raita&Mirchi ka salan",
                 "Accompaniments": "Chutney/ Pachhadi, Curd, Onion Salad, Challa Mirchi",
                 "Dessert": "Fruit Custard"
             },
             "Snacks": {
-                "Item": "Masala Wada (Pay and eat)",
+                "Item": "Pav bhaji (Pay and eat)",
                 "Drink": "Tea/ Milk (Pay and drink)"
             },
             "Dinner": {
                 "Carb 1": "Steamed Rice",
                 "Carb 2": "Roti",
-                "Protein 1/Dal": "",
-                "Protein 2": "Rajma",
+                "Protein 1/Dal": "Tomato Chana Dal curry",
                 "Veg 1": "Gobi/Veg Manchuria",
                 "Veg 2": "Pappu Charu",
+                "Veg 3": "",
                 "Accompaniments": "Pickle, Curd, Salad, Daddojanam",
                 "Dessert": "Basen Chikki/ Bread Halwa"
             }
         }
     },
     "w.e.f": "01-01-2025",
-    "lastUpdated": "07-01-2025"
+    "lastUpdated": "02-02-2025"
 }

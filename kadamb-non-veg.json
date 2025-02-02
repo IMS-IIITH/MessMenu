@@ -11,8 +11,8 @@
    "Meals":{
       "Monday Dinner":"Chicken (Wet Curry)",
       "Wednesday Lunch":"Chicken Dum Biryani",
-      "Thursday Dinner":"",
-      "Friday Dinner":"Chicken (Dry Curry)",
+      "Thursday Dinner":"Egg Curry",
+      "Friday Dinner":"Chicken Curry",
       "Sunday Lunch":"Chicken Dum Biryani"
    },
    "Types":{
@@ -38,6 +38,6 @@
          "Week5":"Egg Curry"
       }
    },
-   "w.e.f": "01-08-2024",
-   "lastUpdated": "27-09-2024"
+   "w.e.f": "01-01-2025",
+   "lastUpdated": "02-02-2025"
 }

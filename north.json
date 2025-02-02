@@ -3,8 +3,8 @@
       "Monday":{
          "Breakfast":{
             "Carb 1":"Puffed Rice Poha",
-            "Carb 2":"Aloo Palak Paratha",
-            "Accompaniments":"Tomato Chutney",
+            "Carb 2":"Triangle Paratha",
+            "Accompaniments":"Mixed Curry",
             "Mandatory Item":"Bread,Butter,Jam,Cornflakes",
             "Protein":"Steamed moong sprouts",
             "Fruit":"Watermelon/Papaya/Banana/Pineapple/Mosambi/Muskmelon",
@@ -224,7 +224,7 @@
          "Dinner":{
             "Carb 1":"White Rice",
             "Carb 2":"Plain Paratha",
-            "Protein 1/Dal":"Palak Paneer",
+            "Protein 1/Dal":"Paneer Lababdar",
             "Protein 2/Veg 1":"Mix Dal",
             "Veg 2":"Lauki Chana",
             "Accompaniments":"Pickle, Curd, Salad",
@@ -233,5 +233,5 @@
       }
    },
    "w.e.f":"01-01-2025",
-   "lastUpdated":"07-01-2025"
+   "lastUpdated":"02-02-2025"
 }

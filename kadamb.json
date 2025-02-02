@@ -18,7 +18,7 @@
                 "Protein 2": "Rajma",
                 "Veg 1": "Cabbage Dry",
                 "Veg 2": "",
-                "Accompaniments": "Fresh chutney, Curd, Green Salad",
+                "Accompaniments": "Curd",
                 "Dessert": ""
             },
             "Snacks": {
@@ -32,8 +32,7 @@
                 "Protein 2": "",
                 "Veg": "",
                 "Accompaniments": "Curd",
-                "Dessert": "Boondi/double ka metha",
-                "Soup": ""
+                "Dessert": "Boondi/double ka metha"
             }
         },
         "Tuesday": {
@@ -52,7 +51,7 @@
                 "Carb 3": "Methi Roti / Chapati",
                 "Protein 1/Dal": "",
                 "Protein 2": "Masoor Daal",
-                "Veg 1": "Ridge Gourd Curry",
+                "Veg 1": "Aloo fry",
                 "Veg 2": "",
                 "Accompaniments": "Curd",
                 "Dessert": "Semiya Kheer"
@@ -64,12 +63,11 @@
             "Dinner": {
                 "Carb 1": "Steamed Rice",
                 "Carb 2": "Poori",
-                "Protein 1/Dal": "",
+                "Protein 1/Dal": "Choley",
                 "Protein 2": "millet khichdi",
                 "Veg": "Donda",
-                "Accompaniments": "Pickle, Boondi Raita",
-                "Dessert": "",
-                "Soup": "Veg Clear Soup"
+                "Accompaniments": "Curd",
+                "Dessert": ""
             }
         },
         "Wednesday": {
@@ -104,8 +102,7 @@
                 "Protein 2": "Paneer Butter Masala",
                 "Veg": "",
                 "Accompaniments": "Curd",
-                "Dessert": "",
-                "Soup": ""
+                "Dessert": ""
             }
         },
         "Thursday": {
@@ -138,14 +135,14 @@
                 "Carb 2": "Double Roti",
                 "Protein 1/Dal": "Dal fry",
                 "Protein 2": "",
-                "Veg": "Veg Jaal Freezy",
+                "Veg": "Veg Jaal Frezy",
                 "Accompaniments": "Curd",
                 "Dessert": "Jalebi/Halwa"
             }
         },
         "Friday": {
             "Breakfast": {
-                "Carb 1": "Dosa (Masala/corn)/pesarattu",
+                "Carb 1": "Dosa (Masala/corn)/Pesarattu",
                 "Carb 2": "Bread",
                 "Accompaniments": "Sambar, chutney",
                 "Mandatory Item": "Cornflakes",
@@ -182,7 +179,7 @@
             "Breakfast": {
                 "Carb 1": "Aloo / Paneer Paratha",
                 "Carb 2": "Bread",
-                "Accompaniments": "Butter, Jam, chutney",
+                "Accompaniments": "Butter, Jam, Chutney",
                 "Mandatory Item": "Cornflakes",
                 "Protein": "Steamed Peanut Salad",
                 "Fruit": "Seasonal fruit",
@@ -210,8 +207,7 @@
                 "Protein 2": "Chana Daal",
                 "Veg": "Aloo Masala",
                 "Accompaniments": "Curd",
-                "Dessert": "Special Sweet",
-                "Soup": ""
+                "Dessert": "Special Sweet"
             }
         },
         "Sunday": {
@@ -246,11 +242,10 @@
                 "Protein 2": "",
                 "Veg": "Veg/Gobi Manchurian & Aloo Gobi Curry",
                 "Accompaniments": "Curd",
-                "Dessert": "",
-                "Soup": "Tomato Soup"
+                "Dessert": ""
             }
         }
     },
-    "w.e.f": "01-09-2024",
-    "lastUpdated": "27-09-2024"
+    "w.e.f": "01-01-2025",
+    "lastUpdated": "02-02-2025"
 }

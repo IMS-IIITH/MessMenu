@@ -22,8 +22,8 @@
         "Summer Drink": "Nimbu Pani"
       },
       "Snacks": {
-        "Item 1": "Bhel Puri",
-        "Item 2": "Tea & Coffee"
+        "Item": "Bhel Puri",
+        "Drink": "Tea & Coffee"
       },
       "Dinner": {
         "Carb 1": "Steamed Rice",
@@ -57,8 +57,8 @@
         "Summer Drink": "ButterMilk"
       },
       "Snacks": {
-        "Item 1": "Chana Chaat",
-        "Item 2": "Tea & Coffee"
+        "Item": "Chana Chaat",
+        "Drink": "Tea & Coffee"
       },
       "Dinner": {
         "Carb 1": "Steamed Rice",
@@ -92,8 +92,8 @@
         "Summer Drink": "Nimbu Pani"
       },
       "Snacks": {
-        "Item 1": "Aloo Sandwich",
-        "Item 2": "Tea & Coffee"
+        "Item": "Aloo Sandwich",
+        "Drink": "Tea & Coffee"
       },
       "Dinner": {
         "Carb 1": "Steamed Rice",
@@ -127,8 +127,8 @@
         "Summer Drink": "Roohafza Water"
       },
       "Snacks": {
-        "Item 1": "Noodles",
-        "Item 2": "Tea & Coffee"
+        "Item": "Noodles",
+        "Drink": "Tea & Coffee"
       },
       "Dinner": {
         "Carb 1": "Steamed Rice",
@@ -162,8 +162,8 @@
         "Summer Drink": "Lassi"
       },
       "Snacks": {
-        "Item 1": "Macroni",
-        "Item 2": "Tea & Coffee"
+        "Item": "Macroni",
+        "Drink": "Tea & Coffee"
       },
       "Dinner": {
         "Carb 1": "Fried Rice",
@@ -197,8 +197,8 @@
         "Summer Drink": "Jal Jeera Paani"
       },
       "Snacks": {
-        "Item 1": "Onion Pakodi",
-        "Item 2": "Tea & Coffee"
+        "Item": "Onion Pakodi",
+        "Drink": "Tea & Coffee"
       },
       "Dinner": {
         "Carb 1": "Matar Pulao",
@@ -232,8 +232,8 @@
         "Summer Drink": ""
       },
       "Snacks": {
-        "Item 1": "Chudwa",
-        "Item 2": "Tea & Coffee"
+        "Item": "Chudwa",
+        "Drink": "Tea & Coffee"
       },
       "Dinner": {
         "Carb 1": "White Rice",
